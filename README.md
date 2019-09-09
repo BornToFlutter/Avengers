@@ -1,3 +1,4 @@
 # Avengers
 
-![alt text](https://github.com/BornToFlutter/Avengers/blob/master/screenshots/avengers.png)
+<img height="500" src="https://github.com/BornToFlutter/Avengers/blob/master/screenshots/avengers.png">
+
